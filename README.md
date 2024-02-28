@@ -7,7 +7,7 @@ Sou um Software Engineer Back-End com 6 anos de experiência apaixonado por desa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,angular,bootstrap,heroku,js,jenkins,jest,mongodb,mysql,nginx,nodejs,rabbitmq,sqlite,ts,aws,bitbucket,c,cpp,cdd,cypress,electron,eclipse,firebase,nestjs,postgres,qt,redis,ros" />
+    <img src="https://skillicons.dev/icons?i=git,docker,angular,bootstrap,heroku,js,jenkins,jest,mongodb,mysql,nginx,nodejs,rabbitmq,sqlite,ts,aws,bitbucket,c,cpp,cypress,electron,eclipse,firebase,nestjs,postgres,qt,redis,ros" />
   </a>
 </p>
 
